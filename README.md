@@ -36,5 +36,5 @@
     - 현재 나래 트렌드 또는 농가 딸기 생육 환경에 학습된 모델로 구성된 Object Detection Device 을 부착하여 실시간으로 딸기 생육 상태를 확인하여 이상 증후 발생 시 알림이 가도록 설정 -> 모델은 지속적으로 Learning 진행
     - 추가적으로 농가 내 온도 또는 습도를 상황에 맞게 조절 하는 방안 제시
 ## 코드
-move_img&make_label.ipynb: opendataset을 본연구에 활용하기 위한 좌표 변환 코드
-plant_detection_yolo.ipynb: YOLOv5 튜닝 및 기업 제공 데이터 detection
+- move_img&make_label.ipynb: opendataset을 본연구에 활용하기 위한 좌표 변환 코드
+- plant_detection_yolo.ipynb: YOLOv5 튜닝 및 기업 제공 데이터 detection
